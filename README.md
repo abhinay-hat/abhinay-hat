@@ -24,8 +24,9 @@ $ cat principle.txt
   The machine should be checkable. An answer you cannot verify is not an answer,
   and data that has to leave your device to be useful usually did not have to.
 
-$ cat status.txt
-  Open to relocation (Poland, Ireland, Australia) and remote roles.
+$ cat now.txt
+  Building local-first AI: speech, documents, agents.
+  Open to collaborating on open-source AI tools, evals, and MCP servers.
 ```
 
 ### Shipped in production
