@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0d1117,50:1f6feb,100:2ea043&text=Abhinay%20Reddy%20Padidam&fontColor=ffffff&fontSize=40&fontAlignY=36&desc=AI%20engineer%20%C2%B7%20systems%20that%20show%20their%20work&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Abhinay Reddy Padidam"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0d1117,50:1f6feb,100:2ea043&text=Abhinay%20Reddy%20Padidam&fontColor=ffffff&fontSize=40&fontAlignY=36&desc=AI%20engineer%20%C2%B7%20systems%20that%20show%20their%20work&descAlignY=58&descSize=17" width="100%" alt="Abhinay Reddy Padidam"/>
 
 <a href="https://plumb.iamabhinay.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=2EA043&center=true&vCenter=true&width=640&lines=Shows+the+SQL+it+ran.;Asks+when+a+term+is+ambiguous.;Refuses+when+the+data+can't+answer.;Runs+on+your+own+hardware." alt="Typing SVG"/></a>
 
@@ -30,7 +30,7 @@ $ cat status.txt
 
 ### Shipped in production
 
-| | |
+| Area | What runs |
 |---|---|
 | **Call intelligence** | faster-whisper large-v3 + Qwen on a single RTX 5090. Calls transcribed and analysed on-prem, nothing sent to a cloud API. |
 | **Document extraction** | Docling + Moondream + Claude over financial paperwork, with a retrieval agent that answers only from its sources. |
