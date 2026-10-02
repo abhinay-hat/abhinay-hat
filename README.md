@@ -49,45 +49,47 @@ $ cat status.txt
 | **[SyncDrop](https://github.com/abhinay-hat/SyncDrop)** | OneDrive for your own hardware. macOS menu-bar app that syncs chosen folders to any drive the moment you plug it in. | Swift · SwiftUI |
 | **[FinTrack](https://github.com/abhinay-hat/FinTrack)** | Offline personal finance for India. Accounts, budgets, recurring payments; data stays on the phone. | TypeScript · React Native · Expo |
 
+<div align="center">
+
 ### AI stack
 
-Open-weight models first, run on my own GPU where the data should not leave the building. Frontier APIs where they earn their cost.
+Open-weight models first, run on my own GPU where the data should not leave the building.<br>Frontier APIs where they earn their cost.
 
 **Models**
 
-<p>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/claude-color.png"><img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/claude-color.png" width="44" height="44" alt="Claude" title="Claude"></picture>&nbsp;&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/qwen-color.png"><img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/qwen-color.png" width="44" height="44" alt="Qwen" title="Qwen"></picture>&nbsp;&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/meta-color.png"><img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/meta-color.png" width="44" height="44" alt="Llama" title="Llama"></picture>&nbsp;&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/deepseek-color.png"><img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/deepseek-color.png" width="44" height="44" alt="DeepSeek" title="DeepSeek"></picture>&nbsp;&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/mistral-color.png"><img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/mistral-color.png" width="44" height="44" alt="Mistral" title="Mistral"></picture>&nbsp;&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/gemma-color.png"><img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/gemma-color.png" width="44" height="44" alt="Gemma" title="Gemma"></picture>&nbsp;&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/gemini-color.png"><img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/gemini-color.png" width="44" height="44" alt="Gemini" title="Gemini"></picture>&nbsp;&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/openai.png"><img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/openai.png" width="44" height="44" alt="Whisper" title="Whisper"></picture>&nbsp;&nbsp;
-</p>
+<table><tr>
+<td align="center" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/claude-color.png"><img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/claude-color.png" width="40" height="40" alt="Claude"></picture><br><sub><b>Claude</b></sub></td>
+<td align="center" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/qwen-color.png"><img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/qwen-color.png" width="40" height="40" alt="Qwen"></picture><br><sub><b>Qwen</b></sub></td>
+<td align="center" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/meta-color.png"><img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/meta-color.png" width="40" height="40" alt="Llama"></picture><br><sub><b>Llama</b></sub></td>
+<td align="center" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/deepseek-color.png"><img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/deepseek-color.png" width="40" height="40" alt="DeepSeek"></picture><br><sub><b>DeepSeek</b></sub></td>
+<td align="center" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/mistral-color.png"><img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/mistral-color.png" width="40" height="40" alt="Mistral"></picture><br><sub><b>Mistral</b></sub></td>
+<td align="center" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/gemma.png"><img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/gemma.png" width="40" height="40" alt="Gemma"></picture><br><sub><b>Gemma</b></sub></td>
+<td align="center" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/gemini-color.png"><img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/gemini-color.png" width="40" height="40" alt="Gemini"></picture><br><sub><b>Gemini</b></sub></td>
+<td align="center" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/openai.png"><img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/openai.png" width="40" height="40" alt="Whisper"></picture><br><sub><b>Whisper</b></sub></td>
+</tr></table>
 
-<sub>Claude · Qwen · Llama · DeepSeek · Mistral · Gemma · Gemini · Whisper (faster-whisper) · Moondream · Docling</sub>
+<sub>also Moondream (vision) · Docling (document parsing)</sub>
 
 **Serving, agents, tooling**
 
-<p>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/huggingface-color.png"><img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/huggingface-color.png" width="44" height="44" alt="Hugging Face" title="Hugging Face"></picture>&nbsp;&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/ollama.png"><img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/ollama.png" width="44" height="44" alt="Ollama" title="Ollama"></picture>&nbsp;&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/vllm-color.png"><img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/vllm-color.png" width="44" height="44" alt="vLLM" title="vLLM"></picture>&nbsp;&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/nvidia-color.png"><img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/nvidia-color.png" width="44" height="44" alt="NVIDIA CUDA" title="NVIDIA CUDA"></picture>&nbsp;&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/langchain-color.png"><img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/langchain-color.png" width="44" height="44" alt="LangChain" title="LangChain"></picture>&nbsp;&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/llamaindex-color.png"><img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/llamaindex-color.png" width="44" height="44" alt="LlamaIndex" title="LlamaIndex"></picture>&nbsp;&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/mcp.png"><img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/mcp.png" width="44" height="44" alt="MCP" title="MCP"></picture>&nbsp;&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/n8n-color.png"><img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/n8n-color.png" width="44" height="44" alt="n8n" title="n8n"></picture>&nbsp;&nbsp;
-</p>
-
-<sub>Hugging Face · Ollama · vLLM · CUDA (RTX 5090) · LangChain · LlamaIndex · MCP · n8n</sub>
+<table><tr>
+<td align="center" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/huggingface-color.png"><img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/huggingface-color.png" width="40" height="40" alt="Hugging Face"></picture><br><sub><b>Hugging Face</b></sub></td>
+<td align="center" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/ollama.png"><img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/ollama.png" width="40" height="40" alt="Ollama"></picture><br><sub><b>Ollama</b></sub></td>
+<td align="center" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/vllm-color.png"><img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/vllm-color.png" width="40" height="40" alt="vLLM"></picture><br><sub><b>vLLM</b></sub></td>
+<td align="center" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/nvidia-color.png"><img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/nvidia-color.png" width="40" height="40" alt="CUDA"></picture><br><sub><b>CUDA</b></sub></td>
+<td align="center" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/langchain-color.png"><img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/langchain-color.png" width="40" height="40" alt="LangChain"></picture><br><sub><b>LangChain</b></sub></td>
+<td align="center" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/llamaindex-color.png"><img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/llamaindex-color.png" width="40" height="40" alt="LlamaIndex"></picture><br><sub><b>LlamaIndex</b></sub></td>
+<td align="center" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/mcp.png"><img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/mcp.png" width="40" height="40" alt="MCP"></picture><br><sub><b>MCP</b></sub></td>
+<td align="center" width="88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/n8n-color.png"><img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/n8n-color.png" width="40" height="40" alt="n8n"></picture><br><sub><b>n8n</b></sub></td>
+</tr></table>
 
 **ML, data, and platform**
 
-<p><img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,ts,fastapi,postgres,mongodb,react,nextjs,docker,linux,aws,gcp&perline=13" alt="ML and platform stack"/></p>
+<img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,ts,fastapi,postgres,mongodb,react,nextjs,docker,linux,aws,gcp&perline=13" alt="ML and platform stack"/>
 
-**Patterns** RAG · tool calling · multi-step agents · MCP servers · vision-language extraction · speech pipelines · golden-set evals · per-request latency and cost tracking
+<sub>RAG · tool calling · multi-step agents · MCP servers · vision-language extraction · speech pipelines · golden-set evals · latency and cost tracking</sub>
+
+</div>
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:2ea043,50:1f6feb,100:0d1117" width="100%" alt=""/>
