@@ -36,12 +36,12 @@ Multi-account tracking and budgets with no network requirement; the data stays o
 
 ### Working with
 
-Python · TypeScript · SQL · Swift
-FastAPI · PostgreSQL · React · Next.js · Flutter
-Claude · Qwen · Llama · DeepSeek · Moondream · Faster-Whisper · Docling
-RAG, tool calling, multi-step agents, MCP
-Golden-set evaluation, per-request latency and cost tracking
-Docker · Linux · AWS · GCP
+- Python · TypeScript · SQL · Swift
+- FastAPI · PostgreSQL · React · Next.js · Flutter
+- Claude · Qwen · Llama · DeepSeek · Moondream · Faster-Whisper · Docling
+- RAG, tool calling, multi-step agents, MCP
+- Golden-set evaluation, per-request latency and cost tracking
+- Docker · Linux · AWS · GCP
 
 Open to relocation and remote roles. Day job is production AI at a real-estate developer: a platform covering 15,000+ properties,
 document extraction over financial paperwork, and a retrieval agent that answers only from its
@@ -49,5 +49,4 @@ sources.
 
 ---
 
-[Website](https://0x-abhinay.vercel.app) · [LinkedIn](https://linkedin.com/in/abhinay-padidam) ·
-abhinaypadidam97@gmail.com
+[Website](https://0x-abhinay.vercel.app) · [LinkedIn](https://linkedin.com/in/abhinay-padidam) · abhinaypadidam97@gmail.com
