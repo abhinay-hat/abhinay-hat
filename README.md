@@ -47,7 +47,6 @@ $ cat status.txt
 | **[DocuMind](https://github.com/abhinay-hat/DocuMind)** | PAN and Aadhaar extraction with Moondream's vision model behind FastAPI. Identity documents never leave the machine. | Python · FastAPI · Moondream |
 | **[Voice-Dub](https://github.com/abhinay-hat/Voice-Dub)** | Dubs video into English in each speaker's own cloned voice, tone preserved, lips resynced. Fully local. | Python · faster-whisper · pyannote · PyTorch (CUDA) |
 | **[SyncDrop](https://github.com/abhinay-hat/SyncDrop)** | OneDrive for your own hardware. macOS menu-bar app that syncs chosen folders to any drive the moment you plug it in. | Swift · SwiftUI |
-| **[continues](https://github.com/abhinay-hat/cli-continues)** | Hit a rate limit mid-debug? `npx continues` carries the session into whichever AI coding tool you switch to. | TypeScript · Node |
 | **[FinTrack](https://github.com/abhinay-hat/FinTrack)** | Offline personal finance for India. Accounts, budgets, recurring payments; data stays on the phone. | TypeScript · React Native · Expo |
 
 ### Working with
