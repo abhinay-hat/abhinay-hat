@@ -7,7 +7,7 @@
 <br/>
 
 <a href="https://plumb.iamabhinay.com"><img src="https://img.shields.io/badge/plumb-live%20demo-2ea043?style=for-the-badge&logo=duckdb&logoColor=white" alt="plumb live demo"/></a>
-<a href="https://0x-abhinay.vercel.app"><img src="https://img.shields.io/badge/site-0x--abhinay-1f6feb?style=for-the-badge&logo=vercel&logoColor=white" alt="website"/></a>
+<a href="https://iamabhinay.com"><img src="https://img.shields.io/badge/site-iamabhinay.com-1f6feb?style=for-the-badge&logo=vercel&logoColor=white" alt="website"/></a>
 <a href="https://linkedin.com/in/abhinay-padidam"><img src="https://img.shields.io/badge/LinkedIn-abhinay--padidam-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:abhinaypadidam97@gmail.com"><img src="https://img.shields.io/badge/email-abhinaypadidam97-30363d?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
 
