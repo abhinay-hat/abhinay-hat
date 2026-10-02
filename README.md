@@ -33,9 +33,8 @@ $ cat now.txt
 
 | Area | What runs |
 |---|---|
-| **Call intelligence** | faster-whisper large-v3 + Qwen on a single RTX 5090. Calls transcribed and analysed on-prem, nothing sent to a cloud API. |
-| **Document extraction** | Docling + Moondream + Claude over financial paperwork, with a retrieval agent that answers only from its sources. |
-| **Geospatial platform** | 15,000+ properties, live. |
+| **Speech pipelines** | faster-whisper large-v3 + open-weight LLMs on a local GPU. Transcription and call analysis with nothing sent to a cloud API. |
+| **Document extraction** | Docling + Moondream + Claude over messy PDFs and scans, with a retrieval agent that answers only from its sources. |
 | **PO automation** | 22 extractors mapped to SAP fields, live since January 2025. |
 | **Digital shelf** | Pricing, availability and market share across 12 marketplaces for FMCG brands. |
 | **MCP server** | OAuth 2.1, serving analytics to Claude. |
