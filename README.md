@@ -49,7 +49,6 @@ $ cat now.txt
 | **[SyncDrop](https://github.com/abhinay-hat/SyncDrop)** | OneDrive for your own hardware. macOS menu-bar app that syncs chosen folders to any drive the moment you plug it in. | Swift · SwiftUI |
 | **[FinTrack](https://github.com/abhinay-hat/FinTrack)** | Offline personal finance for India. Accounts, budgets, recurring payments; data stays on the phone. | TypeScript · React Native · Expo |
 
-**Contributing:** [cli-continues](https://github.com/yigitkonur/cli-continues) — added a Command Code CLI session parser so sessions carry over from it ([PR #76](https://github.com/yigitkonur/cli-continues/pull/76)).
 
 <div align="center">
 
